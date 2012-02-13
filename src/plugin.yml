@@ -1,0 +1,13 @@
+name: RPStuff
+main: com.Post.RPStuff.RPStuff
+version: 0.4.1
+
+authors:
+  - Post
+depend: [Spout]
+
+commands:
+    rpgen:
+        description: Gens a RP World
+        usage: /rpgen
+        aliases: [rpgen]
